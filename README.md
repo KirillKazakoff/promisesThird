@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x6wqec9rqwa62l8c?svg=true)](https://ci.appveyor.com/project/KirillKazakoff/promisesthird)
